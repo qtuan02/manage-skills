@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "2a1944e4-ab30-4b3a-9bb5-dceda4f6fab3",
+  "name": "GitNexus",
+  "description": "Code intelligence: impact analysis, debugging, refactoring qua GitNexus",
+  "icon": null,
+  "sort_order": 999
+}

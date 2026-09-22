@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "2fdaa069-cd6e-4079-a191-09cbfe05c24b",
+  "name": "Agent Orchestration",
+  "description": "Dieu phoi nhieu agent song song, worktree, kham pha skill",
+  "icon": null,
+  "sort_order": 999
+}

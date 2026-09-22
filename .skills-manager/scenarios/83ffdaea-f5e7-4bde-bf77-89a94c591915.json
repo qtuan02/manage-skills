@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "83ffdaea-f5e7-4bde-bf77-89a94c591915",
+  "name": "Workflow Chinh",
+  "description": "Pipeline chinh: grill -> spec -> tickets -> implement -> review -> handoff",
+  "icon": null,
+  "sort_order": 999
+}

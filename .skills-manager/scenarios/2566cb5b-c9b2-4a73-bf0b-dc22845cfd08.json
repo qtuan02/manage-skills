@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "2566cb5b-c9b2-4a73-bf0b-dc22845cfd08",
+  "name": "Architecture & Design",
+  "description": "Thiet ke module, domain model, UI/UX",
+  "icon": null,
+  "sort_order": 999
+}

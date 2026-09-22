@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "f3bb7856-e341-4f67-8940-907ec8c40d50",
+  "name": "Context-Mode",
+  "description": "Quan ly context window, index, search FTS5",
+  "icon": null,
+  "sort_order": 999
+}
