@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "867ef788-d6f1-4f7b-a604-28cddef99280",
+  "path": "subagent-driven-development",
+  "path_key": "subagent-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

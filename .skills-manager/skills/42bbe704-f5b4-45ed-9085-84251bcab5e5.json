@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42bbe704-f5b4-45ed-9085-84251bcab5e5",
+  "path": "ctx-index",
+  "path_key": "ctx-index",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

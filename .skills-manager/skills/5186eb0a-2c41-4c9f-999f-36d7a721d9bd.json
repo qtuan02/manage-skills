@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5186eb0a-2c41-4c9f-999f-36d7a721d9bd",
+  "path": "ctx-purge",
+  "path_key": "ctx-purge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

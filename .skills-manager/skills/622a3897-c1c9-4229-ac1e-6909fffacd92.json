@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "622a3897-c1c9-4229-ac1e-6909fffacd92",
+  "path": "writing-skills",
+  "path_key": "writing-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

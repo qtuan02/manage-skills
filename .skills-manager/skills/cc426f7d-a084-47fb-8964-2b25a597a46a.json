@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc426f7d-a084-47fb-8964-2b25a597a46a",
+  "path": "context-mode",
+  "path_key": "context-mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

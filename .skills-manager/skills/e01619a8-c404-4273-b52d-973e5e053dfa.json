@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e01619a8-c404-4273-b52d-973e5e053dfa",
+  "path": "ctx-stats",
+  "path_key": "ctx-stats",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

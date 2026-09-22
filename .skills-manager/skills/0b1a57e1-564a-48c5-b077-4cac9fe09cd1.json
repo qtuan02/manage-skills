@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b1a57e1-564a-48c5-b077-4cac9fe09cd1",
+  "path": "to-tickets",
+  "path_key": "to-tickets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

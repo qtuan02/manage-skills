@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6a35b5d-834c-44da-95a5-5ce0624432cd",
+  "path": "ctx-upgrade",
+  "path_key": "ctx-upgrade",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "785a1203-f952-478d-ba4c-4ff2cf50f78b",
+  "path": "ctx-doctor",
+  "path_key": "ctx-doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
