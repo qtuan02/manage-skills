@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ff7c8d9-0095-4f71-a518-f09f64c1cbc7",
+  "path": "gitnexus-pr-review",
+  "path_key": "gitnexus-pr-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

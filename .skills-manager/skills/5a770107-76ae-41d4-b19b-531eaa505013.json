@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a770107-76ae-41d4-b19b-531eaa505013",
+  "path": "gitnexus-debugging",
+  "path_key": "gitnexus-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

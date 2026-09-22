@@ -1,0 +1,24 @@
+bin/
+obj/
+Logs/
+*.user
+.vs/
+.vscode/
+.idea/
+.DS_Store
+appsettings.*.local.json
+.env
+.env.local
+.env.*.local
+
+
+# Worktree tạm của workflow — không bao giờ commit
+.claude/worktrees/
+.claude/
+.agents/
+.codex/
+.worktrees/
+.superpowers/
+
+AGENTS.md
+CLAUDE.md

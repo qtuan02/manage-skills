@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2505969b-e91e-4968-a316-086f4b20510e",
+  "path": "gitnexus-exploring",
+  "path_key": "gitnexus-exploring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
