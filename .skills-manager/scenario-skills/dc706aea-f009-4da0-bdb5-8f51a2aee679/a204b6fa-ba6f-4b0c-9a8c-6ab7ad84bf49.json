@@ -3,5 +3,9 @@
   "scenario_id": "dc706aea-f009-4da0-bdb5-8f51a2aee679",
   "skill_id": "a204b6fa-ba6f-4b0c-9a8c-6ab7ad84bf49",
   "sort_order": 21,
-  "tools": {}
+  "tools": {
+    "claude_code": true,
+    "github_copilot": true,
+    "junie": true
+  }
 }
